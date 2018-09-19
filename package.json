@@ -1,0 +1,61 @@
+{
+  "_from": "vue-cli-plugin-ftl-render",
+  "_id": "vue-cli-plugin-ftl-render@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-FYwhnmbORe+JSr3n3pH6sCVgM5Y0/91AYTs8kkwgF87anXFadg8Kt4lvzq3Sj1Pn+ri1WFagPx3x7dy5bK/iiw==",
+  "_location": "/vue-cli-plugin-ftl-render",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-cli-plugin-ftl-render",
+    "name": "vue-cli-plugin-ftl-render",
+    "escapedName": "vue-cli-plugin-ftl-render",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-cli-plugin-ftl-render/-/vue-cli-plugin-ftl-render-1.0.0.tgz",
+  "_shasum": "5d71be87f70075a92c1a74bbe5673ba41a2a6569",
+  "_spec": "vue-cli-plugin-ftl-render",
+  "_where": "/Users/challenget/Documents/project3/kaola-community-web/src/main/resources/wap-vue",
+  "author": {
+    "name": "challenget"
+  },
+  "bugs": {
+    "url": "https://github.com/466023746/vue-cli-plugin-ftl-render/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "vue cli ftl render plugin",
+  "homepage": "https://github.com/466023746/vue-cli-plugin-ftl-render#readme",
+  "keywords": [
+    "vue",
+    "cli",
+    "ftl",
+    "freemarker"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "vue-cli-plugin-ftl-render",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/466023746/vue-cli-plugin-ftl-render.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1",
+  "devDependencies": {
+    "fast-ftl": "^1.9.0",
+    "freemarker-middleware": "^0.2.1",
+    "koa-proxies": "^0.7.0",
+    "koa-views": "^6.1.4",
+    "webpack-dev-server": "^3.1.8",
+    "webpack-serve": "^2.0.2"
+  }
+}
