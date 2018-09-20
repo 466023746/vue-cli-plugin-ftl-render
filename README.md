@@ -17,6 +17,16 @@ vue add ftl-render
 ## Usage
 
 ```js
+// package.json
+
+{
+    "scripts": {
+        "serve": "vue-cli-service serve:ftl"
+    }
+}
+```
+
+```js
 // vue.config.js
 
 module.exports = {
