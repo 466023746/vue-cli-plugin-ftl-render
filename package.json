@@ -49,7 +49,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
     "fast-ftl": "^1.9.0",
     "freemarker-middleware": "^0.2.1",
